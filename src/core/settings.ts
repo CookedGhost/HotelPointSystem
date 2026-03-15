@@ -1,0 +1,4 @@
+
+
+export const WALLET_URL = 'http://127.0.0.1:43895/'
+export const CONTRACT_ADDR = {'erc20':'0xB9dd49256002ba3CADA6c8F31C038641CcB753F2'}
